@@ -1,63 +1,63 @@
 [
     {
-    "First Name": "John",
-    "Last Name" : "Adams",
-    "Date Of Birth":"01/14/1945",
+    "firstName": "John",
+    "lastName" : "Adams",
+    "DOBh":"01/14/1945",
     "Age":"75",
     "Weight":"165",
     "Height":"189",
     "Sex":"M",
-    "Social Security":"45678945",
-    "Medical Data":["Year11","year22","year33"]
+    "socialSecurity":"45678945",
+    "medicalData":["Year11","year22","year33"]
 
   },
 
   {
     "First Name": "Alan",
-    "Last Name" : "Walker",
-    "Date Of Birth":"05/19/1985",
+    "lastName" : "Walker",
+    "DOB":"05/19/1985",
     "Age":"25",
     "Weight":"120",
     "Height":"165",
     "Sex":"M",
-    "Social Security":"78945159",
-    "Medical Data":["Year4","year5","year6"]
+    "socialSecurity":"78945159",
+    "medicalData":["Year4","year5","year6"]
 
   },
   {
-    "First Name": "Martin",
-    "Last Name" : "Garrix",
-    "Date Of Birth":"08/02/1995",
+    "firstName": "Martin",
+    "lastName" : "Garrix",
+    "DOB":"08/02/1995",
     "Age":"21",
     "Weight":"175",
     "Height":"135",
     "Sex":"M",
-    "Social Security":"15956741",
-    "Medical Data":["Year7","year8","year9"]
+    "socialSecurity":"15956741",
+    "medicalData":["Year7","year8","year9"]
 
   },
   {
-    "First Name": "Lisa",
-    "Last Name" : "Williams",
-    "Date Of Birth":"12/08/1990",
+    "firstName": "Lisa",
+    "lastName" : "Williams",
+    "DOB":"12/08/1990",
     "Age":"26",
     "Weight":"156",
     "Height":"103",
     "Sex":"F",
-    "Social Security":"12374789",
-     "Medical Data":["Year1","year2","year3"]
+    "socialSecurity":"12374789",
+     "medicalData":["Year1","year2","year3"]
 
   },
   {
-    "First Name": "Ashley",
-    "Last Name" : "Smith",
-    "Date Of Birth":"09/22/1978",
+    "firstName": "Ashley",
+    "lastName" : "Smith",
+    "DOB":"09/22/1978",
     "Age":"32",
     "Weight":"160",
     "Height":"106",
     "Sex":"F",
-    "Social Security":"78941562",
-    "Medical Data":["Year4","year5","year6"]
+    "socialSecurity":"78941562",
+    "medicalData":["Year4","year5","year6"]
 
   }
 

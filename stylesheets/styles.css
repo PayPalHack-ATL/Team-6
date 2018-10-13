@@ -14,8 +14,8 @@ button {
 }
 
 .form-control {
-    position: relative;
-    left: 61em;
+    display: inline;
+    text-align: center;
     margin: 2em;
     width: 25em;
     height: 10em;

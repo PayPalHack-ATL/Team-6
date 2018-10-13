@@ -4,5 +4,19 @@
 }
 
 button {
-  width: 50%;
+  width: 10%;
+  margin: 1em;
+}
+
+.wrapper {
+    display: inline;
+    text-align: center;
+}
+
+.form-control {
+    position: relative;
+    left: 61em;
+    margin: 2em;
+    width: 25em;
+    height: 10em;
 }

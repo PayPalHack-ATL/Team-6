@@ -10,5 +10,5 @@
 <ul>
     <li>With no need for an internet connection Echo would be accessible to users all over the world, including many remote locations.</li>
     <li>Echo is straight forward, as easy as taking a picture and pressing a button. This allows it to be intuitive for even less tech literate users.</li>
-    <li></li>
+    <li>Creating an easy to use centralized solution for managing healthcare debts</li>
 </ul>

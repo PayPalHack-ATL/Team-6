@@ -12,3 +12,11 @@
     <li>Echo is straight forward, as easy as taking a picture and pressing a button. This allows it to be intuitive for even less tech literate users.</li>
     <li>Creating an easy to use centralized solution for managing healthcare debts.</li>
 </ul>
+<h2>The Team:</h2>
+<ul>
+    <li><a href="https://github.com/ryan-barrett">Ryan Barrett</a></li>
+    <li><a href="https://github.com/AnthonyDavis2">Anthony Davis</a></li>
+    <li><a href="https://github.com/Prashantvemu">Prashant Vemulapalli</a></li>
+    <li><a href="https://github.com/Poliphria">Christian Moronta</a></li>
+    <li><a href="https://github.com/DanWin94">Danny Nguyen</a></li>
+</ul>
